@@ -1,7 +1,6 @@
 # django-blog-website
 This project is a Multi-User blog website which is create using Django 1.10.
 Here an Authorized user can create, edit and publish the posts and the visitors can add comments to it.
-This project is based on a django course taught by Jose Portilla of Pierian Data Inc.
 
 ## Prerequisites
 Virtual environment(optional but recommended),pip
